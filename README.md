@@ -6,7 +6,7 @@
    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <br><br><br>
-🤖 Tool 🤖<br><br>
+🤖 IDE 🤖<br><br>
 <img src="https://img.shields.io/badge/IntelliJ-B729D4?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
 <br><br>
 🐋 Community 🐋<br><br>
