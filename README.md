@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00B2FF&height=200&section=header&text=EclipseMC&fontSize=90" /> <br>
 ✨ Language ✨<br><br>
 <img src="https://img.shields.io/badge/Java-D48348?style=flat&logo=CoffeeScript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Kotlin-D48348?style=flat&logo=Kotlin&logoColor=white"/>
-   <img src="https://img.shields.io/badge/gradle-D48348?style=flat&logo=gradle&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Kotlin-CF21B6?style=flat&logo=Kotlin&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
 <br><br><br>
 🤖 Tool 🤖<br><br>
 <img src="https://img.shields.io/badge/IntelliJ-B729D4?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
