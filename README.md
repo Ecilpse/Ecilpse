@@ -3,7 +3,8 @@
 ✨ Language ✨<br><br>
 <img src="https://img.shields.io/badge/Java-D48348?style=flat&logo=CoffeeScript&logoColor=white"/>
    <img src="https://img.shields.io/badge/Kotlin-CF21B6?style=flat&logo=Kotlin&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <br><br><br>
 🤖 Tool 🤖<br><br>
 <img src="https://img.shields.io/badge/IntelliJ-B729D4?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
